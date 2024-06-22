@@ -64,7 +64,7 @@ def analyze_mood(user_input):
 
 MentalAI has limitations:
 * It is not intended to replace professional mental health treatment and cannot diagnose mental health conditions
-* The effectiveness of the AI companion will depend on the quality and accuracy of the mental health databases and the user's willingness to engage with the system
+* The effectiveness will depend on the quality and accuracy of the mental health databases and the user's willingness to engage with the system
 * There may be concerns regarding data privacy
 * There will be risks of misinterpretation or inappropriate responses in critical situations
 
