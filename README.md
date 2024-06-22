@@ -78,10 +78,10 @@ Future developments could include:
 * Collaboration with mental health professionals for supervised AI learning
 * Development of VR-based therapy sessions
 
-To move forward with this project, I would need to deepen my understanding of AI techniques for natural language processing, personalization, and emotional intelligence. Collaborating with mental health experts and obtaining guidance from experienced AI developers would be crucial in ensuring the safety, ethics, and effectiveness of the AI-Powered Mental Health Companion.
+To move forward with this project, I would need to deepen my understanding of AI techniques for NLP, personalization, and emotional intelligence. Collaborating with mental health experts and obtaining guidance from experienced AI developers would be crucial in ensuring the safety, ethics, and effectiveness.
 
 ## Acknowledgments
 
 * Inspired by mental health chatbots, such as Woebot and Youper.
-* The project will utilize open-source libraries and frameworks such as NLTK and Hugging Face Transformers, which are available under the Apache License 2.0.
+* The project will utilize open-source libraries and frameworks such as NLTK and Hugging Face Transformers.
 * Mental health resources and best practices will be sourced from reputable organizations such as the World Health Organization and the National Institute of Mental Health, with proper attribution and licensing.
